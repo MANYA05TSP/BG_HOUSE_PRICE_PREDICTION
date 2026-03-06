@@ -22,3 +22,7 @@ install libraries/dependencies
 pip install -r requirements.txt
 ```
 
+streamlit run command
+```
+streamlit run file.py
+```
