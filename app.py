@@ -50,3 +50,4 @@ if col2.button("Predict House Price"):
     pred=model.predict(new_data)[0]
     pred=round(pred*100000)
     st.subheader(f"Predicted Price: र. {pred}")
+    
